@@ -1,0 +1,11 @@
+.app {
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  .server-list {
+    width: 50%;
+  }
+  .edit-form {
+    width: 50%;
+  }
+}
